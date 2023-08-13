@@ -1,0 +1,10 @@
+{
+    "workspace": "",
+    "name": "You",
+    "email": "",
+    "dateFormat": "MM/DD/YYYY",
+    "use24HourClock": false,
+    "durationFormat": "improved",
+    "firstDayOfTheWeek": "Monday",
+    "groupSimilarTimeEntries": true
+}
