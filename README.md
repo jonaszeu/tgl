@@ -9,7 +9,7 @@ With `tgl` you can time track right from your terminal.
 To install `tgl` globally:
 
 ```bash
-npm install -g tgl
+npm install -g
 ```
 
 
